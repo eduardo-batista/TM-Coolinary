@@ -12,9 +12,9 @@ Criar nichos de perfis focados em conteúdos específicos, trazendo aos usuário
 
 ## 🛠️ Construído com
 
-* [Dart](https://dart.dev/guides) - Linguagem de programação utilizada
+* [Dart](https://dart.dev/guides) - A linguagem de programação utilizada
 * [Flutter](https://flutter.dev/docs) - O framework mobile utilizado
-* [Firebase](https://firebase.google.com/docs) - Database utilizada
+* [Firebase](https://firebase.google.com/docs) - A database utilizada
 
 ## ✒️ Autores
 
